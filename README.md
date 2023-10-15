@@ -1,5 +1,5 @@
 # iOS-Development-Roadmap-2023-24
-Моя лично составленная дорожная карта по iOS разработке на 2023/24 год
+Дорожная карта по iOS разработке на 2023/24 год
 <br>
 Ссылка на roadmap: https://miro.com/app/board/uXjVNa_fzLY=/?share_link_id=268775313792
 
