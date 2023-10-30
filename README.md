@@ -1,7 +1,6 @@
 # iOS-Development-Roadmap-2023-24
 
-## Ресурсы автора оригинала: 
-### [YouTube](https://www.youtube.com/watch?v=Ffec-hUHHog), [Telegram](https://t.me/nems0n)
+## Ресурсы автора оригинала: [YouTube](https://www.youtube.com/watch?v=Ffec-hUHHog), [Telegram](https://t.me/nems0n)
 
 Дорожная карта по iOS разработке на 2023/24 год
 <br>
